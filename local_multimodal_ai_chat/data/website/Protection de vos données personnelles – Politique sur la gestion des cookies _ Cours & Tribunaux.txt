@@ -1,0 +1,261 @@
+
+Protection de vos données personnelles – Politique sur la gestion des cookies | Cours & Tribunaux
+ Aller au contenu principal
+ 
+Second navigation
+Jobs
+Statistiques
+Presse
+FAQ
+Contact
+ Tribunaux
+ 
+Les différents tribunaux de Belgique
+ Justice de paix
+ 
+ Toutes les justices de paix
+ 
+Un aperçu de toutes les justices de paix
+ Informations sur la justice de paix
+ 
+Description, compétences, composition, documents, ...
+ Tribunal de police
+ 
+ Tous les tribunaux de police
+ 
+Un aperçu de tous les tribunaux de police
+ Informations sur le tribunal de police
+ 
+Description, compétences, composition, documents,...
+ Tribunal de première instance
+ 
+ Tous les tribunaux de première instance
+ 
+Un aperçu de tous les tribunaux de première instance
+ Informations sur le tribunal de première instance
+ 
+Description, compétences, composition, documents, ...
+ Tribunal du travail
+ 
+ Tous les tribunaux de travail
+ 
+Un aperçu de tous les tribunaux de travail
+ Informations sur le tribunal de travail
+ 
+Description, compétences, composition, documents, ...
+ Tribunal de l'entreprise
+ 
+ Tous les tribunaux de l'entreprise
+ 
+Un aperçu de tous les tribunaux de l'entreprise
+ Informations sur le tribunal de l'entreprise
+ 
+Description, compétences, composition, documents, ...
+ Cours
+ 
+Les différentes cours de Belgique
+ Cour d'appel
+ 
+ Toutes les cours d'appel
+ 
+Un aperçu de toutes les cours d'appel
+ Informations sur la cour d'appel
+ 
+Description, compétences, composition, documents, ...
+ Cour du travail
+ 
+ Toutes les cours du travail
+ 
+Un aperçu de toutes les cours du travail
+ Informations sur la cour du travail
+ 
+Description, compétences, composition, documents, ...
+ Cour d'assises
+ 
+ Toutes les cours d'assises
+ 
+Un aperçu de toutes les cours d'assises
+ Informations sur la cour d'assises
+ 
+Description, compétences, composition, documents, ...
+ Cour de cassation
+ 
+ Collège
+ 
+ Collège
+ 
+ Le Collège
+ 
+ Qui et quoi ?
+ 
+ Réunions du Collège
+ 
+ Le service d'appui
+ 
+ Publications
+ 
+ Contact
+ 
+ Infos utiles
+ 
+ Infos utiles
+ 
+ Le système judiciaire belge
+ 
+ La pyramide judiciaire
+ 
+Les différents types de tribunaux et de cours
+ Les personnes dans les tribunaux
+ 
+Qui est qui au tribunal
+ Les procédures dans les tribunaux
+ 
+Un apreçu de toutes les procédures du tribunal
+ J'ai reçu ...
+ 
+ une convocation
+ 
+ un avis de paiement
+ 
+ Brochures
+ 
+ Lexique
+ 
+ Statistiques
+ 
+ Tarifs
+ 
+ Liens
+ 
+ Actualité
+ 
+ e-Services
+ 
+ e-Services
+ 
+ Votre dossier
+ 
+ Just-on-web
+ 
+ Compétence territoriale
+ 
+ Registre central de protection des personnes
+ 
+ Outil de calcul des contributions alimentaires
+ 
+ Zoeken
+ 
+ FR
+ NLDE
+ FR
+ NLDE
+Fil d'Ariane
+Accueil
+ Protection de vos données personnelles – Politique sur la gestion des cookies
+ 
+Protection de vos données personnelles – Politique sur la gestion des cookies
+Introduction
+Les informations qui suivent concernent la protection de vos données personnelles et des cookies. Il s’agit des données qui permettent de vous identifier directement ou indirectement, par exemple, votre prénom, nom de famille, adresse mail et adresse IP. Vos données personnelles sont protégées conformément au Règlement général sur la protection des données (RGPD).
+Cette politique est d’application sur les pages du site www.tribunaux-rechtbanken.be.
+Pour de plus amples informations au sujet de la protection de vos données personnelles, nous vous renvoyons à notre politique de protection des données personnelles.
+Lorsqu'un lien vous mène vers un autre site web, un autre site portail, une application en ligne ou un réseau social, c'est aux conditions de traitement des données à caractère personnel de ces services que vous devez vous référer.
+ 
+Qu’est-ce qu’un cookie et pourquoi sont-ils utiles ?
+Un « cookie » est un petit fichier placé sur votre appareil par le site que vous visitez afin de permettre aux développeurs de ce site de conserver des données utilisateur pour faciliter votre navigation et offrir certaines fonctionnalités. Les cookies sont de simples fichiers texte et ne sont pas exécutables ; ils ne sont donc pas des logiciels espions. Il en existe diverses catégories qui permettent notamment la gestion des sessions de navigation, la personnalisation de la manière dont on communique l’information et le pistage.
+Le site des cours et tribunaux utilise des cookies. 
+Voici un aperçu des cookies que nous utilisons ainsi que de leur fonction :
+Cookies statistiques (de Google Analytics) pour sauvegarder les statistiques relatives au site : _ga, _gid, _gat. Ces données sont traitées uniquement pour connaître le nombre d’utilisateurs des différentes sections du site et pour améliorer le contenu des services. En outre, les informations sont collectées de manière anonymisée.
+Cookies statistiques (de Matomo) pour sauvegarder les statistiques relatives au site : _pk_id, _pk_ref, _pk_ses.
+Vous pouvez désactiver ou gérer l’utilisation des cookies dans les paramètres de votre navigateur.
+Si vous consentez à l’utilisation des cookies sur notre site internet, sachez qu’ils peuvent donc être envoyés à des tiers dans le but de fournir les services évoqués ci-dessus. 
+Le site des cours et tribunaux n’utilise pas de :
+Cookies publicitaires ;
+Cookies de réseaux sociaux.
+ 
+Votre accord pour l’utilisation des cookies
+Si vos paramètres de navigateur acceptent nos cookies (automatiquement) et que vous faites usage de notre site, nous partons du principe que vous êtes d’accord avec notre politique de cookies. Si vous souhaitez effacer des cookies de votre navigateur ou si vous souhaitez en avoir un usage limité, vous trouverez plus d’information sur les démarches à entreprendre en cliquant sur les liens ci-dessous. Si vous faites ceci, cela signifie néanmoins que notre site ne fonctionnera probablement pas comme il le devrait.
+Votre navigateur : Firefox, Google Chrome, Safari, Internet explorer.
+ 
+Quels sont les cookies que nous utilisons ?
+Voici une liste détaillée des cookies que nous utilisons ainsi que leur durée de conservation et une explication de leur utilité.
+ 
+Nos cookies statistiques
+Nom
+Durée de conservation
+But
+_ga
+2 ans
+Ce cookie est utilisé pour suivre (de manière anonyme) les performances des pages consultées par les utilisateurs du site via Google Universal Analytics.
+_gid
+24 heures
+Ce cookie est utilisé pour enregistrer un identifiant unique (mais anonyme) afin de générer des données statistiques sur la façon dont le visiteur utilise le site via Google Universal Analytics.
+_gat
+1 minute
+Permet de limiter la fréquence des requêtes.
+_pk_id
+28 jours
+Analyse du nombre de visiteurs du site Internet. (Matomo)
+_pk_ref
+6 mois
+Analyse du nombre de visiteurs du site Internet. (Matomo)
+_pk_ses
+50 minutes
+Analyse du nombre de visiteurs du site Internet. (Matomo)
+ 
+Comment puis-je gérer ou effacer les cookies ?
+Si vous souhaitez effacer ou gérer les cookies, vous pouvez adapter les paramètres de votre navigateur en cliquant sur l’un des liens ci-dessous.
+Votre navigateur : Firefox, Google Chrome, Safari, Internet explorer.
+ Jobs
+ 
+ Presse
+ 
+ Se connecter
+ 
+ FAQ
+ 
+ Contact
+ 
+Footer-menu
+Tribunaux
+Justice de paix
+Tribunal de police
+Tribunal de première instance
+Tribunal du travail
+Tribunal de l'entreprise
+Cours
+Cour d'appel
+Cour du travail
+Cour d'assises
+Cour de cassation
+Collège
+Le Collège des cours et tribunaux
+Le service d'appui
+Publications
+Infos utiles
+Le système judiciaire belge
+Personnes dans les tribunaux
+Procédures dans les tribunaux
+Statistiques
+Lexique
+Brochures
+Actualité
+Actualités
+e-Tools
+Votre dossier
+Just-on-web
+e-Deposit
+Compétence territoriale
+©
+ Cours et tribunaux de Belgique
+ 2024
+ 
+ Disclaimer
+ 
+ Confidentialité
+ 
+ Gestion des cookies
+ 
+ Accessibilité
+ 
+ 
+ 
